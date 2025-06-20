@@ -1,3 +1,11 @@
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/mrpradana2" target="_blank">Rizki Pradana</a> 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Profil+Saya!;Fullstack+Web+Developer+berbasis+JavaScript+%26+Go;Membangun+Frontend+dengan+React+%F0%9F%9A%80;Membangun+Backend+dengan+NestJS+%26+Golang;Siap+Kolaborasi+dan+Belajar+Hal+Baru!+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 Fullstack Web Developer with expertise in building web applications. Having experience in JavaScript, Node.js, React.js, Tailwind CSS, Docker, PostgreSQL, Golang, and Gin Framework through an intensive programme at Koda Academy. The combination of technical understanding and analytical ability enables me to develop efficient digital solutions, as per business needs. Ready to contribute to the development of scalable and user-centric web products.
 
